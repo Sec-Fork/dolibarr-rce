@@ -44,7 +44,7 @@ token=5de221f6658ef66579740ae1636d24a6&action=add&menuId=12345671&menu_handler=e
 
 View the database table `llx_menu` and successfully add malicious data:
 
-<img src="dolibarr.assets/image-20220616112531844.png" alt="image-20220616112531844" style="zoom:50%;" />
+<img src="README.assets/image-20220914203120654.png" alt="image-20220914203120654" style="zoom:50%;" />
 
 Secondly, access to `http://localhost/dolibarr1502/htdocs/admin/menus/index.php`, will generate malicious PHP files in the `admin/menus/` directory.
 
